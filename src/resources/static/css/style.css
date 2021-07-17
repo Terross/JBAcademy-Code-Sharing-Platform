@@ -1,0 +1,18 @@
+#load_date {
+    color: green;
+}
+
+#code_snippet {
+    background-color: #bdeecc;
+    border-style: solid;
+    border-color: #099334;
+    min-width: 50%;
+    min-height: 30%;
+    width: fit-content;
+}
+
+textarea {
+    min-height: 5em;
+    max-height: 50vh;
+    width: 100%;
+}
